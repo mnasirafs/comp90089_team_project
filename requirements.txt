@@ -1,0 +1,14 @@
+certifi==2019.3.9
+numpy==1.16.2
+pandas==0.24.2
+pip==19.0.3
+python-dateutil==2.8.0
+pytz==2018.9
+readline==7.0
+setuptools==40.8.0
+six==1.12.0
+sqlite==3.27.2
+tk==8.6.8
+wheel==0.33.1
+xz==5.2.4
+zlib==1.2.11
